@@ -1,7 +1,34 @@
 # elevenlabs-usage
 
-## testing
-this repo is not fully tested yet (tho mostly). please use with a note in the back of your mind that things may not work.
+## warning
+this repo is not fully tested yet (tho mostly). please use with a note in the back of your mind that things may not work, to protect against disappointment.
+
+
+## index, the juice, the point
+```python
+"""
+crop an audio:
+  crop.py
+
+download gen history:
+  download_history.py
+
+generate audio from a voice id:
+  eleven_labs.py -> use_tts(voice_id, string)
+
+get voice ID for each name:
+  eleven_labs.py -> get_name_ID_mapping()
+
+get settings for a given voice ID:
+  eleven_labs.py -> get_settings(ID)
+
+get settings for each voice:
+  eleven_labs.py -> get_all_settings()
+
+edit a voice's labels and settings:
+  eleven_labs.py -> name, new_settings
+"""
+```
 
 ## things i want
 
