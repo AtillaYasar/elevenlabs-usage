@@ -4,8 +4,8 @@
 
 ### API related
 - easy, clean access to all data, meaning:
-  + full text search over all generated audio in history
-  + for any given voice, getting settings, training samples, all generated text
+  + there is history, voice names, training samples, generated audio and associated text for a voice, settings for a specific audio;
+    - i want some representation of data where i can access and search over all of that in an easy way
 
 ### general audio related
 - crop audios using text
