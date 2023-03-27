@@ -5,8 +5,7 @@ this repo is not fully tested yet (tho mostly). please use with a note in the ba
 
 
 ## index, the juice, the point
-```python
-"""
+```
 crop an audio:
   crop.py
 
@@ -27,7 +26,6 @@ get settings for each voice:
 
 edit a voice's labels and settings:
   eleven_labs.py -> name, new_settings
-"""
 ```
 
 ## things i want
