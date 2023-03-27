@@ -1,8 +1,10 @@
 # elevenlabs-usage
 
 ## warning
+### tests
 this repo is not fully tested yet (tho mostly). please use with a note in the back of your mind that things may not work, to protect against disappointment.
-
+### assumptions/requirements
+a `secrets.py` with `elevenlabs_key`, some pip installs (pygame, ffmpeg, rich), a `dump` folder  <-- list is probably not exhaustive
 
 ## index, the juice, the point
 ```
