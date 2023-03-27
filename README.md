@@ -12,7 +12,7 @@ crop an audio:
 download gen history:
   download_history.py
 
-generate audio from a voice id:
+generate and download audio:
   eleven_labs.py -> use_tts(voice_id, string)
 
 get voice ID for each name:
