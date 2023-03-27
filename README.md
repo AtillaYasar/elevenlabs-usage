@@ -9,10 +9,7 @@ a `secrets.py` with `elevenlabs_key`, some pip installs (pygame, ffmpeg, rich), 
 ## index, the juice, the point
 ```
 crop an audio:
-  crop.py
-
-download gen history:
-  download_history.py
+  crop.py --> no function, just 6 lines of code
 
 generate and download audio:
   eleven_labs.py -> use_tts(voice_id, string)
@@ -32,6 +29,9 @@ edit a voice's labels and settings:
 play an audio
   play_audio.py -> set example_n to 0 for vlc, 1 for pygame, 2 for pygame+tkinter
     (vlc, pygame, tkinter are python modules)
+
+download gen history:
+  download_history.py -> bunch of different functions
 ```
 
 ## things i want
