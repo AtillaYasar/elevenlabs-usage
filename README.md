@@ -25,7 +25,7 @@ get settings for each voice:
   eleven_labs.py -> get_all_settings()
 
 edit a voice's labels and settings:
-  eleven_labs.py -> name, new_settings
+  eleven_labs.py -> edit_voice(name, new_settings)
 ```
 
 ## things i want
