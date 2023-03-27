@@ -1,5 +1,8 @@
 # elevenlabs-usage
 
+## testing
+this repo is not fully tested yet (tho mostly). please use with a note in the back of your mind that things may not work.
+
 ## things i want
 
 ### API related
