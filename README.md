@@ -14,7 +14,7 @@ this repo is not fully tested yet (tho mostly). please use with a note in the ba
 - crop audios using text
   + get speech tagger, use timestamps to crop
     - OpenAI Whisper is strong, but requires GPU to run
-- picking and playing audios from some interface that is good  (as opposed to normal Windows stuff)
+- picking and playing audios with some interface that is good  (as opposed to normal Windows stuff)
 
 ### misc
 - all this in a nice interface, probably with tkinter.
