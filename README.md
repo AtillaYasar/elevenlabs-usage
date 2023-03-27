@@ -28,6 +28,10 @@ get settings for each voice:
 
 edit a voice's labels and settings:
   eleven_labs.py -> edit_voice(name, new_settings)
+
+play an audio
+  play_audio.py -> set example_n to 0 for vlc, 1 for pygame, 2 for pygame+tkinter
+    (vlc, pygame, tkinter are python modules)
 ```
 
 ## things i want
